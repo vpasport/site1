@@ -1,0 +1,15 @@
+<table class = "header">
+	<tr  id = "menu">
+        	<td class = "menu select" id = "news" onClick="detDOM('news')">NEWS</td>
+        	<td class = "menu" id = "offer" onClick="detDOM('offer')">OFFER</td>
+	</tr>
+</table>
+<div class = "news_confirm" id = "offer_news" hidden = "true">
+	<div class = "block_news_input">
+		<input type = "text" id = "news_text" placeholder = "Text" class = "news_input">
+		<input type = "button" id = "news_confirm" value = "offer" class = "nwes_input_button" onClick = "offerNews()"> 
+	</div>
+</div>
+<div class = "news_con" id = "news_con"></div>
+<div class = "news_con" id = "news_con_offer" hidden = "true"></div>
+<div class = "news_con" id = "news_con_offer_suggested_news" hidden = "true"></div>

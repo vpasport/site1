@@ -1,0 +1,1 @@
+<td class = "menu" id = "suggested_news" onClick="detDOM('suggested_news')">SUGGESTED NEWS</td>

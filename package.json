@@ -1,0 +1,19 @@
+{
+  "name": "prjct",
+  "version": "1.0.0",
+  "description": "Some project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FroZoDevelop/PRJCT.git"
+  },
+  "author": "FroZo, 4EJIOBEK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FroZoDevelop/PRJCT/issues"
+  },
+  "homepage": "https://github.com/FroZoDevelop/PRJCT#readme"
+}
